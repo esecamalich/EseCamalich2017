@@ -10,3 +10,5 @@ RewriteRule . /SergioCamalich/website/wordpress/index.php [L]
 </IfModule>
 
 # END WordPress
+
+# esta es una prueba
